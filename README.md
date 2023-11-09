@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lakshmikarthika
-- 👀 I’m interested in Web development using React Js
+- 👀 I’m interested in Web development using React Js and Java
 - 🌱 I’m currently learning problem solving
 - 📫 Reach me on karthikakondapaneni@gmail.com
 
